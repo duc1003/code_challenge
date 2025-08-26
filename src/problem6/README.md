@@ -82,8 +82,8 @@ PORT=3000
 REDIS_URL=redis://localhost:6379
 JWT_SECRET=supersecret (nếu xài jwt cho token)
 ```
-## Chỗ còn mơ hồ
+## Chỗ còn hơi mơ hồ
 
-* websocket em chưa implement bao giờ, nên chắc cần 1 anh chị trong team setup.
+* websocket em chưa rành lắm, nên chắc cần 1 anh chị trong team setup.
 * rate limit nên config ở nginx hay trong code? em thiên về nginx.
 * BE có cần notify FE bằng push ngay khi score thay đổi không, hay polling là đủ?
